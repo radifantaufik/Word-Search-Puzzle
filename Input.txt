@@ -1,7 +1,17 @@
-1 # number of cases
+2 # number of cases
 3 # number of rows
 4 # number of columns
 catt # first row
 aata # second row
 tatc # third row
 cat # word to find in puzzle grid 
+5 # number of rows (2nd case)
+5 # number of columns (2nd case)
+gogog # first row
+gogog # second row
+godog # third row
+gogog # fourth row
+gogog # fifth row
+dog # word to find in puzzle grid
+
+# the input above tell us that we want to find defined word in a grid of scrumble letters in two cases. The first case try to find "cat" in grid, and the second case try to find "dog".
