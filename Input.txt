@@ -1,0 +1,7 @@
+1 # number of cases
+3 # number of rows
+4 # number of columns
+catt # first row
+aata # second row
+tatc # third row
+cat # word to find in puzzle grid 
